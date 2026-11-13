@@ -58,5 +58,5 @@ print("{:.2f}".format(ans))
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c076f6b-540f-483f-b461-5f20e2022725" />
 ### Infinity Norm of a Matrix
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/206c8d12-69a0-43c7-bc3c-16596aeaffb0" />
-## Result
+## Result:
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
